@@ -1,0 +1,16 @@
+.dailydeals {
+    background: #BE85C7;
+    box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 28px;
+}
+
+.listing {
+    background: #BE85C7;
+    box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 28px;
+    padding: 25px;
+}
+
+.diceimage {
+    max-height: 1100px;
+}
