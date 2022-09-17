@@ -11,6 +11,16 @@
     padding: 25px;
 }
 
+body {
+    background-color: rgba(72, 104, 115, 1);
+}
+
+.bg-primary {
+    background-color: #BE85C7 !important;
+}
+
+
+
 .diceimage {
     max-height: 1100px;
 }
