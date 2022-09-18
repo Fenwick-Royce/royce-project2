@@ -24,3 +24,7 @@ body {
 .diceimage {
     max-height: 1100px;
 }
+
+.color {
+    background-color: #583e5c;
+}
