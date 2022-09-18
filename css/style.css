@@ -19,10 +19,9 @@ body {
     background-color: #BE85C7 !important;
 }
 
-
-
 .diceimage {
-    max-height: 1100px;
+    max-height: 452px;
+    max-width: 332px;
 }
 
 .color {
